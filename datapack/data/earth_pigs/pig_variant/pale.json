@@ -1,0 +1,5 @@
+{
+  "biomes": "minecraft:meadow",
+  "model": "normal",
+  "texture": "earth_pigs:entity/pig/pale"
+}

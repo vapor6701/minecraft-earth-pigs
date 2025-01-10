@@ -1,0 +1,5 @@
+{
+  "biomes": "#earth_pigs:swampy_biomes",
+  "model": "normal",
+  "texture": "earth_pigs:entity/pig/muddy"
+}
