@@ -1,0 +1,13 @@
+{
+  "asset_id" : "earth_pigs/entity/pig/pale",
+  "model": "normal",
+  "spawn_conditions" : [
+    {
+      "condition" : {
+        "type" : "minecraft:biome",
+        "biomes" : "minecraft:meadow"
+      },
+      "priority": 1
+    }
+  ],
+}

@@ -1,0 +1,9 @@
+{
+  "asset_id" : "earth_pigs/entity/pig/spotted",
+  "model": "normal",
+  "spawn_conditions" : [
+    {
+      "priority": 0
+    }
+  ],
+}

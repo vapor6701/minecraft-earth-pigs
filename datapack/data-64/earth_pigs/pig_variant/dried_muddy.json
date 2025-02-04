@@ -1,0 +1,13 @@
+{
+  "asset_id" : "earth_pigs/entity/pig/dried_muddy",
+  "model": "normal",
+  "spawn_conditions" : [
+    {
+      "condition" : {
+        "type" : "minecraft:biome",
+        "biomes" : "minecraft:swamp"
+      },
+      "priority": 1
+    }
+  ],
+}

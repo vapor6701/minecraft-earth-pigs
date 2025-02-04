@@ -1,0 +1,13 @@
+{
+  "asset_id" : "earth_pigs/entity/pig/mottled",
+  "model": "normal",
+  "spawn_conditions" : [
+    {
+      "condition" : {
+        "type" : "minecraft:biome",
+        "biomes" : "minecraft:dark_forest"
+      },
+      "priority": 1
+    }
+  ],
+}

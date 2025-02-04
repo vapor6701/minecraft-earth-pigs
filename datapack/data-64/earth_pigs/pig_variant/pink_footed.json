@@ -1,0 +1,13 @@
+{
+  "asset_id" : "earth_pigs/entity/pig/pink_footed",
+  "model": "normal",
+  "spawn_conditions" : [
+    {
+      "condition" : {
+        "type" : "minecraft:biome",
+        "biomes" : "minecraft:cherry_grove"
+      },
+      "priority": 1
+    }
+  ],
+}

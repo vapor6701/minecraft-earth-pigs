@@ -1,0 +1,13 @@
+{
+  "asset_id" : "earth_pigs/entity/pig/piebald",
+  "model": "normal",
+  "spawn_conditions" : [
+    {
+      "condition" : {
+        "type" : "minecraft:biome",
+        "biomes" : "#earth_pigs:jungle_variants"
+      },
+      "priority": 1
+    }
+  ],
+}

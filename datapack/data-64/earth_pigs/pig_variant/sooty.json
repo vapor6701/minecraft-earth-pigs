@@ -1,0 +1,13 @@
+{
+  "asset_id" : "earth_pigs/entity/pig/sooty",
+  "model": "normal",
+  "spawn_conditions" : [
+    {
+      "priority": 0
+    }
+  ],
+}
+{
+  "model": "normal",
+  "texture": "earth_pigs:entity/pig/sooty"
+}
